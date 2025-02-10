@@ -48,20 +48,4 @@
 
 ---
 
-## 📊 GitHub Insights  
-
-📈 **Here's what I've been up to!**  
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Madhusha523&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhusha523&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusha523&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
----
-
 💡 **"Dream it. Build it. Share it."** 🚀  
-
