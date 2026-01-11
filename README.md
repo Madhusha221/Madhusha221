@@ -12,10 +12,10 @@
 🎯 **Goal:** Become an **AI-Powered Software Developer** skilled in backend systems and intelligent applications.
 
 - 🔥 Strong in **Python, SQL, OOPS, and Backend Development**
-- 🌱 Currently learning **Machine Learning, Deep Learning, Flask & FastAPI**
+- 🌱 Currently learning **Airtfical intelegence, Data analytics, Flask & FastAPI**
 - ⚙️ Experienced with **REST APIs, Django, and database-driven applications**
-- 💡 Interested in **AI, Data Analytics, Automation & Cloud Technologies**
-- 💬 Ask me about **Python, SQL, APIs, DBMS, Pandas, NumPy**
+- 💡 Interested in **AI, Full stack Development& Cloud Technologies**
+- 💬 Ask me about **Python, SQL, DBMS, java&web technologies**
 - 📩 Reach me at **madhusha523@gmail.com**
 
 ---
